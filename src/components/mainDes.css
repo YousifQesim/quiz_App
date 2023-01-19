@@ -1,0 +1,153 @@
+.all{
+background-color: #1C315E;
+  min-height: 50vh;
+  width: 75%;
+margin: 0 auto;
+margin-top: 200px;
+color: white;
+
+}
+.trues{
+border: 2px solid white;
+border-radius: 50%;
+height: 17vh;
+width: 120px;
+text-align: center;
+margin: 0 auto;
+}
+.trues p{
+  position: relative;
+  top: 30px;
+}
+.yak{
+  font-size: 30px;
+}
+.dw{
+  font-size: 20px;
+  
+}
+.se{
+
+}
+.queAns{
+margin-top: 5px;
+  height: 35vh;
+}
+.question{
+  border: 2px solid white;
+  min-height: 5vh;
+  text-align: center;
+}
+.answares{
+  
+  min-height: 30vh;
+}
+.theResult{
+  border: 2px solid #1C315E;
+  width: 50%;
+  height: 40vh;
+  margin: 0 auto;
+  margin-top: 200px;
+  text-align: center;
+  border-radius: 20px;
+  background-color: #1C315E;
+    }
+    .thetext{
+      margin: 0 auto;
+      margin-top: 90px;
+      border: 4px solid white;
+      width: 120px;
+      padding: 10px;
+      
+      border-radius: 50%;
+      color: white;
+    }
+
+    
+    .all{
+      background-color: #1C315E;
+        min-height: 50vh;
+        width: 75%;
+      margin: 0 auto;
+      margin-top: 200px;
+      color: white;
+      
+      }
+      .trues{
+      border: 2px solid white;
+      border-radius: 50%;
+      height: 17vh;
+      width: 120px;
+      text-align: center;
+      margin: 0 auto;
+      }
+      .trues p{
+        position: relative;
+        top: 30px;
+      }
+      .yak{
+        font-size: 30px;
+      }
+      .dw{
+        font-size: 20px;
+        
+      }
+      .se{
+      
+      }
+      .queAns{
+        height: 35vh;
+        background-color: #dddfe215;
+      }
+      .question{
+        border: 2px solid white;
+        min-height: 5vh;
+        text-align: center;
+      }
+      .answares{
+        margin-top: 5px;
+        background-color: white;
+      
+        min-height: 30vh;
+      }
+      
+      
+      
+      .button-48 {
+        background-color: #fff;
+        border: 0 solid #e2e8f0;
+      
+        box-sizing: border-box;
+        color: #0d172a;
+        cursor: pointer;
+        display: inline-block;
+        font-family: "Basier circle",-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        font-size: 1.1rem;
+        font-weight: 600;
+        line-height: 1;
+        padding: 1rem 1.6rem;
+        text-align: center;
+        text-decoration: none #0d172a solid;
+        text-decoration-thickness: auto;
+        transition: all .1s cubic-bezier(.4, 0, .2, 1);
+        box-shadow: 0px 1px 2px rgba(166, 175, 195, 0.25);
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+        display: block;
+        width: 100%;
+        margin-top: 4px;
+        border: 2px solid #1C315E;
+      }
+      
+      .button-48:hover {
+        background-color: #1C315E;
+        color: #fff;
+      }
+      
+      @media (min-width: 768px) {
+        .button-48{
+          font-size: 1.125rem;
+          padding: 1rem 2rem;
+        }
+      }
